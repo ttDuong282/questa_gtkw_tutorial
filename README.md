@@ -28,7 +28,7 @@ Link cài đặt: [QuestaSIM_ubuntu](https://drive.google.com/drive/folders/12tQ
 1. **Dowload file nén 1.5GB và giải nén**
 2. **Mở Terminal tại folder Mentor Graphics QuestaSim 10.7c Linux64**
 
-![image.png](QuestaSim%20+%20GTKwave%20Guideline%208fbb5a1bb36b43939404ff3083c8e484/image.png)
+![image 1.png](QuestaSim%20+%20GTKwave%20Guideline%208fbb5a1bb36b43939404ff3083c8e484/image.png)
 
 1. **Make file executable:** 
 
